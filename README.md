@@ -6,13 +6,15 @@ objective:
 
 # Questions: 
 
-  1--what day of the week has thr e highest rates of activity.
+  1-- What day of the week has thr e highest rates of activity?
   
-  2-- which part of the city has the highest probability of finding a good time.
+  2-- Which part of the city has the highest probability of finding a good time?
   
-  3-- what is the best time to find cheerful activities.
+  3-- What is the best time to find cheerful activities?
   
-  4-- good times or bad, cheer is readily available, but when is it more available.
+  4-- Good times or bad, cheer is readily available, but when is it more available?
   
-  5-- how much does it cost to be in the spirit?
+  5-- How much does it cost to be in the spirit?
+
+  6-- New or used market, which age category is the most cheerful?
 
