@@ -18,3 +18,5 @@ objective:
 
   6-- New or used market, which age category is the most cheerful?
 
+  7-- East coast vs West coast, which gangtsas have the most fun?
+
