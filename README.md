@@ -71,6 +71,9 @@ In this repository, we embark on a statistical journey examining the nuances of 
 16. **Weekday vs. Weekend Wonders:**
     - Are Weekdays or Weekends More Conducive to Spreading Holiday Joy?
 
+17. **Link to the slide show presentation**
+    - https://www.canva.com/design/DAF3lYQ-tNs/nUaSejSVxlBUXUWWZtxTfg/view?utm_content=DAF3lYQ-tNs&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
+
 ### Directory Structure
 
 - `data/`: Contains the raw and processed datasets used in the analysis.
